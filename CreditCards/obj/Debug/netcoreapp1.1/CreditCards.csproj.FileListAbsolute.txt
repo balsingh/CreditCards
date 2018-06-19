@@ -1,0 +1,11 @@
+C:\Projects\Selenium\src\CreditCards\bin\Debug\netcoreapp1.1\CreditCards.deps.json
+C:\Projects\Selenium\src\CreditCards\bin\Debug\netcoreapp1.1\CreditCards.runtimeconfig.json
+C:\Projects\Selenium\src\CreditCards\bin\Debug\netcoreapp1.1\CreditCards.runtimeconfig.dev.json
+C:\Projects\Selenium\src\CreditCards\bin\Debug\netcoreapp1.1\CreditCards.dll
+C:\Projects\Selenium\src\CreditCards\bin\Debug\netcoreapp1.1\CreditCards.pdb
+C:\Projects\Selenium\src\CreditCards\obj\Debug\netcoreapp1.1\CreditCards.csproj.CoreCompileInputs.cache
+C:\Projects\Selenium\src\CreditCards\obj\Debug\netcoreapp1.1\CreditCards.AssemblyInfoInputs.cache
+C:\Projects\Selenium\src\CreditCards\obj\Debug\netcoreapp1.1\CreditCards.AssemblyInfo.cs
+C:\Projects\Selenium\src\CreditCards\obj\Debug\netcoreapp1.1\CreditCards.dll
+C:\Projects\Selenium\src\CreditCards\obj\Debug\netcoreapp1.1\CreditCards.pdb
+C:\Projects\Selenium\src\CreditCards\obj\Debug\netcoreapp1.1\CreditCards.csprojResolveAssemblyReference.cache

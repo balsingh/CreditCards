@@ -1,0 +1,13 @@
+services:
+  creditcards:
+    build:
+      context: C:\Projects\Soltech\CreditCards
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: creditcards
+    ports:
+    - target: 80
+    - published: 95
+      target: 5000
+version: '3.4'

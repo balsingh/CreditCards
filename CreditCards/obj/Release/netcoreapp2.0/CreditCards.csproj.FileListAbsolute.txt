@@ -1,0 +1,15 @@
+C:\Projects\Selenium\src\CreditCards\out\CreditCards.deps.json
+C:\Projects\Selenium\src\CreditCards\out\CreditCards.runtimeconfig.json
+C:\Projects\Selenium\src\CreditCards\out\CreditCards.runtimeconfig.dev.json
+C:\Projects\Selenium\src\CreditCards\out\CreditCards.dll
+C:\Projects\Selenium\src\CreditCards\out\CreditCards.pdb
+C:\Projects\Selenium\src\CreditCards\obj\Release\netcoreapp2.0\CreditCards.csproj.CoreCompileInputs.cache
+C:\Projects\Selenium\src\CreditCards\obj\Release\netcoreapp2.0\CreditCards.AssemblyInfoInputs.cache
+C:\Projects\Selenium\src\CreditCards\obj\Release\netcoreapp2.0\CreditCards.AssemblyInfo.cs
+C:\Projects\Selenium\src\CreditCards\obj\Release\netcoreapp2.0\CreditCards.dll
+C:\Projects\Selenium\src\CreditCards\obj\Release\netcoreapp2.0\CreditCards.pdb
+C:\Projects\Selenium\src\CreditCards\bin\Release\netcoreapp2.0\CreditCards.deps.json
+C:\Projects\Selenium\src\CreditCards\bin\Release\netcoreapp2.0\CreditCards.runtimeconfig.json
+C:\Projects\Selenium\src\CreditCards\bin\Release\netcoreapp2.0\CreditCards.runtimeconfig.dev.json
+C:\Projects\Selenium\src\CreditCards\bin\Release\netcoreapp2.0\CreditCards.dll
+C:\Projects\Selenium\src\CreditCards\bin\Release\netcoreapp2.0\CreditCards.pdb
