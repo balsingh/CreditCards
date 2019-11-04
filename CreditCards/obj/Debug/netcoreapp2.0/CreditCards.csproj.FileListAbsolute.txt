@@ -20,3 +20,14 @@ C:\Projects\Soltech\CreditCards\obj\Debug\netcoreapp2.0\CreditCards.AssemblyInfo
 C:\Projects\Soltech\CreditCards\obj\Debug\netcoreapp2.0\CreditCards.dll
 C:\Projects\Soltech\CreditCards\obj\Debug\netcoreapp2.0\CreditCards.pdb
 C:\Projects\Soltech\CreditCards\obj\Debug\netcoreapp2.0\CreditCards.csprojAssemblyReference.cache
+C:\Training\Openshift\CreditCards\CreditCards\bin\Debug\netcoreapp2.0\CreditCards.deps.json
+C:\Training\Openshift\CreditCards\CreditCards\bin\Debug\netcoreapp2.0\CreditCards.runtimeconfig.json
+C:\Training\Openshift\CreditCards\CreditCards\bin\Debug\netcoreapp2.0\CreditCards.runtimeconfig.dev.json
+C:\Training\Openshift\CreditCards\CreditCards\bin\Debug\netcoreapp2.0\CreditCards.dll
+C:\Training\Openshift\CreditCards\CreditCards\bin\Debug\netcoreapp2.0\CreditCards.pdb
+C:\Training\Openshift\CreditCards\CreditCards\obj\Debug\netcoreapp2.0\CreditCards.csprojAssemblyReference.cache
+C:\Training\Openshift\CreditCards\CreditCards\obj\Debug\netcoreapp2.0\CreditCards.csproj.CoreCompileInputs.cache
+C:\Training\Openshift\CreditCards\CreditCards\obj\Debug\netcoreapp2.0\CreditCards.AssemblyInfoInputs.cache
+C:\Training\Openshift\CreditCards\CreditCards\obj\Debug\netcoreapp2.0\CreditCards.AssemblyInfo.cs
+C:\Training\Openshift\CreditCards\CreditCards\obj\Debug\netcoreapp2.0\CreditCards.dll
+C:\Training\Openshift\CreditCards\CreditCards\obj\Debug\netcoreapp2.0\CreditCards.pdb
